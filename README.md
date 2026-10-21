@@ -122,7 +122,7 @@ AiOps-Assignment-4/
 ├── grafana-dashboard.json
 ├── prometheus.yml
 ├── README.md
-└── AIAppendix
+└── AI_DISCLOSURE.md
 ```
 
 `Images/` contains screenshots documenting application functionality, Prometheus queries, metric collection, and alerting. `AIAppendix` will contain the separate AI-use documentation.
@@ -364,8 +364,3 @@ These screenshots provide evidence of the implemented application and monitoring
 - **Grafana** — dashboards and alerting
 - **Docker Compose** — monitoring-stack deployment
 
-## 14. Assignment Scope
-
-This project demonstrates application instrumentation, system-level metrics collection, dashboard design, and alerting for a CPU-based AI application.
-
-The implementation is intended for the DA3408 A4 assignment and demonstration environment. Production deployment may require additional measures such as authentication, secured endpoints, persistent storage, and a fully configured notification channel.

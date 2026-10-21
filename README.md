@@ -144,7 +144,7 @@ The application downloads the pretrained model and its associated processor/toke
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/keerthi-2007/AiOps-Assignment-4.git
 cd AiOps-Assignment-4
 ```
 
